@@ -1,3 +1,4 @@
 hello git
-hermione
+<<<<<<< HEAD
+hermione 2
 4105 1
